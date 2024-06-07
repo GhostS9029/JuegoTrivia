@@ -1,0 +1,54 @@
+[33mcommit dc010986fa133b713a32667edc3ace1ee6e7ae7f[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 383894e 4a4a66a
+Author: GhostS9029 <323307129@alumno.enp.unam.mx>
+Date:   Fri Jun 7 13:52:26 2024 -0600
+
+    Merge branch 'Christopher' into main
+
+[33mcommit 383894e0ae423ac5fe8bee9ea34f4830b02a66f9[m
+Author: GhostS9029 <323307129@alumno.enp.unam.mx>
+Date:   Fri Jun 7 13:51:05 2024 -0600
+
+    Hicimos merge
+
+[33mcommit 4a4a66ad06f3fd004dc6bf466ee15b577f2e5782[m[33m ([m[1;31morigin/Christopher[m[33m, [m[1;32mChristopher[m[33m)[m
+Author: GhostS9029 <323307129@alumno.enp.unam.mx>
+Date:   Fri Jun 7 13:37:24 2024 -0600
+
+    Comando acabado creo
+
+[33mcommit 855b1065105c0568f19e7efed596c2924427f910[m
+Author: GhostS9029 <323307129@alumno.enp.unam.mx>
+Date:   Fri Jun 7 13:33:20 2024 -0600
+
+    Avance comando
+
+[33mcommit acf8d55293bcaa61bc8e1c23a3267ba20c9004db[m
+Author: GhostS9029 <323307129@alumno.enp.unam.mx>
+Date:   Fri Jun 7 13:30:32 2024 -0600
+
+    Primer intento mi rama
+
+[33mcommit 51e30691c9cf1cb891a8f27f28e4f376e0cc1719[m[33m ([m[1;31morigin/verificar_res[m[33m, [m[1;31morigin/captura[m[33m)[m
+Author: María Emilia Ramírez <mariaemiliaramirezgomez@comunidad.unam.mx>
+Date:   Tue Jun 4 18:51:34 2024 -0600
+
+    Actualización del README.md - instrucciones de la actividad
+
+[33mcommit cca4872e751fa68cbc6f08fe7f99d1c48a94f267[m
+Author: María Emilia Ramírez <mariaemiliaramirezgomez@comunidad.unam.mx>
+Date:   Tue Jun 4 01:06:33 2024 +0000
+
+    Se agregó la estructura básica del programa, falta implementar la lógica de las funciones
+
+[33mcommit bfba543e18302b95bfb966c3f0073d1ccbd4d5ca[m
+Author: María Emilia Ramírez <mariaemiliaramirezgomez@comunidad.unam.mx>
+Date:   Tue Jun 4 00:53:56 2024 +0000
+
+    Carga de preguntas desde un archivo de texto
+
+[33mcommit 8339e85fcf9236af8d343fd0e287be97f52f7809[m
+Author: María Emilia Ramírez <mariaemiliaramirezgomez@comunidad.unam.mx>
+Date:   Mon Jun 3 18:37:04 2024 -0600
+
+    Initial commit
